@@ -1,0 +1,29 @@
+.r {
+    color: red;
+    font-family: Arial;
+}
+
+.b {
+    color: blue;
+    font-family: Arial;
+}
+
+.v {
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pr {
+    background-color: red;
+    font-family: monospace;
+}
+
+.pb {
+    background-color: blue;
+    font-family: monospace;
+}
+
+.pv {
+    background-color: green;
+    font-family: monospace;
+}
